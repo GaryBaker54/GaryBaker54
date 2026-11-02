@@ -6,4 +6,5 @@ I like building things, explaining them, and figuring out why they broke.
 
 Off the clock: aspiring amateur comedian and keeper of two wild and crazy corgis. Moving to Montréal.
 
-Email: gbaker@periodicx.net
+- Website: [periodicx.net](https://periodicx.net)
+- Email: gbaker@periodicx.net
